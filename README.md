@@ -61,3 +61,12 @@ Automated email alerts for overdue invoices.
 Predictive analytics for payment delays.
 
 Integration with ERP systems.
+
+🤝 Let's Connect
+I'm always open to collaboration or feedback!
+
+🔗 LinkedIn – K Jaya Krishna
+💻 GitHub – JayaKrishna003
+
+🔖 Tags
+#InvoiceAnalytics #DataScience #DataAnalytics #Python #EDA #TimeSeries #SoloProject #PowerBI
